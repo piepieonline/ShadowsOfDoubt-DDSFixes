@@ -1,0 +1,10 @@
+{
+  "name": "DDS_Fixes",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/piepieonline/ShadowsOfDoubt-DDSFixes",
+  "description": "A bunch of text fixes that fix things that come out of the DDS system (think 'hair hair' or similar)",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.733",
+	"Piepieonline-DDSLoader-1.0.6"
+  ]
+}
